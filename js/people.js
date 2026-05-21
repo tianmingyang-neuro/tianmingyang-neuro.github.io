@@ -29,7 +29,7 @@ function renderAlumni() {
     <div class="flex flex-wrap gap-x-4 gap-y-1 py-2 border-b border-slate-100">
       <span class="font-medium">${a.name}</span>
       <span class="text-slate-500 text-sm">${a.year}</span>
-      <span class="text-slate-500 text-sm">— ${a.destination}</span>
+      <span class="text-slate-500 text-sm"> ${a.destination === '' ? '': ' '+a.destination}</span>
     </div>
   `).join('');
 }
