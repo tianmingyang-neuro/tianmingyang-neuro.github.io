@@ -74,7 +74,7 @@ async function renderPost() {
     target.innerHTML = `<p class="text-slate-500">Post not found.</p>`;
     return;
   }
-  document.title = `${post.title} — T. Yang Lab`;
+  document.title = `${post.title} — Yang Lab`;
 
   const header = `
     <div class="flex flex-wrap items-center gap-3 mb-4 text-sm">
