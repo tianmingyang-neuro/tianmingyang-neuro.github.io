@@ -36,12 +36,12 @@ const ALUMNI = [
   { name: 'Zhewei Zhang',  year: '2014',  destination: 'Postdoc, NIH' },
   { name: 'Zhongqiao Lin',  year: '2014',  destination: 'Postdoc, ION' },
   { name: 'Chechang Nie',  year: '2014',  destination: 'Postdoc, ION' },
-  { name: 'Wenyi Zhang',  year: '2015',  destination: 'Postdoc, NYU' },
-  { name: 'Xiaodong Li',  year: '2015',  destination: 'Postdoc, ION' },
-  { name: 'Ruixin Su',  year: '2016',  destination: 'Industrial' },
-  { name: 'Yunxian Bai',  year: '2015',  destination: 'Industrial' },
-  { name: 'Xiyuan Chen',  year: '2016',  destination: 'Industrial' },
-  { name: 'Qianli Yang',  year: '2018',  destination: 'PI, ECNU' },
-  { name: 'Bowen Zheng',  year: '2021',  destination: 'Industrial' },
-  { name: 'Jianshu Li',  year: '2018',  destination: 'ION' }
+  { name: 'Siwei Guan',  year: '2015',  destination: 'Industrial' },
+  { name: 'Wenyi Zhang',  year: '2016',  destination: 'Postdoc, NYU' },
+  { name: 'Yunxian Bai',  year: '2017',  destination: 'Industrial' },
+  { name: 'Ruixin Su',  year: '2018',  destination: 'Industrial' },
+  { name: 'Pengyu Bao',  year: '2018',  destination: '' },
+  { name: 'Xiyuan Chen',  year: '2018',  destination: 'Industrial' },
+  { name: 'Xiaodong Li',  year: '2019',  destination: 'Postdoc, ION' },
+  { name: 'Qianli Yang',  year: '2019',  destination: 'PI, ECNU' }
 ];
