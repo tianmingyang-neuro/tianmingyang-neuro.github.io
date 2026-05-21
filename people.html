@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>People — T. Yang Lab</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/styles.css" />
+</head>
+<body class="bg-slate-50 text-slate-900">
+<div id="site-nav"></div>
+
+<header class="max-w-6xl mx-auto px-6 pt-16 pb-12">
+  <p class="text-sm tracking-widest uppercase text-slate-500 mb-4">04 — People</p>
+  <h1 class="font-serif text-4xl md:text-6xl">The lab</h1>
+</header>
+
+<section class="max-w-6xl mx-auto px-6 pb-16">
+  <h2 class="font-serif text-2xl mb-6">Principal Investigator</h2>
+  <div id="pi-block"></div>
+</section>
+
+<section class="max-w-6xl mx-auto px-6 pb-16">
+  <h2 class="font-serif text-2xl mb-6">Current Members</h2>
+  <div id="members-grid" class="grid md:grid-cols-3 gap-6"></div>
+</section>
+
+<section class="max-w-6xl mx-auto px-6 pb-24">
+  <h2 class="font-serif text-2xl mb-6">Alumni</h2>
+  <div id="alumni-list" class="columns-1 sm:columns-2 lg:columns-3 gap-8"></div>
+</section>
+
+<div id="site-footer"></div>
+<script src="data/people-data.js"></script>
+<script src="js/people.js"></script>
+<script src="js/nav.js"></script>
+</body>
+</html>

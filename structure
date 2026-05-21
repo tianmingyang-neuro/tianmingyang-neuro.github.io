@@ -1,0 +1,24 @@
+yanglab/
+├── index.html              ← home (hero + highlights)
+├── research.html
+├── news.html               ← lists all news/blog/commentary
+├── post.html               ← renders a single post by ?id=
+├── publications.html
+├── people.html
+├── contact.html
+├── css/styles.css          ← shared styles
+├── js/
+│   ├── nav.js              ← shared header/footer (so you edit once)
+│   ├── news.js
+│   ├── publications.js
+│   └── people.js
+├── posts/                  ← news&blogs folder
+│   ├── language-model-problem-solving-2025.md
+│   ├── new-students-fall-2024.md
+│   ├── why-monkeys-blog.md
+│   └── ...
+├── data/
+│   ├── news-data.js        ← add news/blogs here
+│   ├── publications-data.js
+│   └── people-data.js
+└── README.md

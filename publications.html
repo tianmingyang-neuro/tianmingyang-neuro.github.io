@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Publications — T. Yang Lab</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/styles.css" />
+</head>
+<body class="bg-slate-50 text-slate-900">
+<div id="site-nav"></div>
+
+<header class="max-w-6xl mx-auto px-6 pt-16 pb-8">
+  <p class="text-sm tracking-widest uppercase text-slate-500 mb-4">03 — Publications</p>
+  	<!-- Hero -->
+	
+	<!-- Constrained hero box -->
+	<div class="relative overflow-hidden rounded-lg aspect-[7/2]">
+	
+	  <!-- Background image -->
+	  <div class="absolute inset-0 z-0">
+		<img src="images/hero-banner.png"
+			 alt=""
+			 class="w-full h-full object-cover" />
+		<div class="absolute inset-0 bg-white/70"></div>
+		<div class="absolute inset-0 bg-gradient-to-r from-white via-white/80 to-white/40"></div>
+	  </div>
+	
+	  <!-- Foreground text -->
+	  <div class="relative h-full flex items-center px-8 md:px-12">
+		<div class="max-w-2xl">
+		  <h1 class="font-serif text-5xl md:text-6xl text-slate-900 leading-tight mb-5">
+			Selected publication
+		  </h1>
+		  <p class="text-xl text-slate-700 leading-relaxed mb-8">
+			Co-corresponding (#) and co-first (*) authorship as marked.
+		  </p>
+		</div>
+	  </div>
+</header>
+
+<section class="max-w-6xl mx-auto px-6 pb-8">
+  <div id="pub-filters" class="flex flex-wrap gap-2"></div>
+</section>
+
+<section class="max-w-6xl mx-auto px-6 pb-24">
+  <div id="pub-list" class="divide-y divide-slate-200 border-y border-slate-200 bg-white"></div>
+</section>
+
+<div id="site-footer"></div>
+<script src="data/publications-data.js"></script>
+<script src="js/publications.js"></script>
+<script src="js/nav.js"></script>
+</body>
+</html>
