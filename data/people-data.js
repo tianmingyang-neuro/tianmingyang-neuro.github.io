@@ -1,6 +1,6 @@
 const PI = {
   initials: 'TY',
-  name: 'Tianming Yang, Ph.D.',
+  name: 'Tianming Yang • 杨天明, Ph.D.',
   role: 'Senior Investigator · Lab Head',
   bio: `Tianming received his Ph.D. from Baylor College of Medicine working with John Maunsell on visual cortex,
         then trained as a postdoc with Michael Shadlen at the University of Washington and as a staff scientist
