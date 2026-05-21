@@ -22,7 +22,6 @@ const MEMBERS = [
   { initials: 'HZ', name: 'Zhihua Zhu • 竺智华',    role: 'Graduate Student',    blurb: ' Computational modeling of planning' },
   { initials: 'PY', name: 'Puzhi Yu • 郁朴智',    role: 'Graduate Student',    blurb: ' Computational modeling and AI' },
   { initials: 'MM', name: 'Ming Ma • 马铭',    role: 'Graduate Student',    blurb: 'Brain-inspired AI' },
-  { initials: 'LH', name: 'Lingke Huang • 黄灵柯',role: 'Research Assistant',    blurb: 'Pac-Man games in monkeys' },
   { initials: 'WK', name: 'Wei Kong • 孔维',role: 'Lab Technician',    blurb: '' },
   { initials: 'LY', name: 'Lu Yu • 	余璐',role: ' Lab Manager',    blurb: '' }
   
