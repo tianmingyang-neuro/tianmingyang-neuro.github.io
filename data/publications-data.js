@@ -65,6 +65,14 @@ const PUBLICATIONS = [
     url: 'https://www.ijcai.org/proceedings/2022/397'
   },
   {
+    year: 2021,
+    authors: 'Yang, Q.*, ..., Yang, T.#',
+    title: 'Monkey plays Pac-Man with compositional strategies and hierarchical decision-making',
+    journal: 'eLife',
+    journalType: '',
+    topic: 'cognition problem computational',
+    url: 'https://elifesciences.org/articles/74500'
+  },{
     year: 2020,
     authors: 'Lin, Z.*, Nie C.*, Zhang, Y.*, Yang, T.#',
     title: 'Evidence accumulation for value computation in the prefrontal cortex during decision making',
