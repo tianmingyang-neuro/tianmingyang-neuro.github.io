@@ -18,6 +18,13 @@ const NEWS_POSTS = [
     category: 'lab-news',
     title: 'Yang Lab has a new website!',
     excerpt: 'We started a new website.'
+  },
+  {
+    id: 'entangled-brain',
+    date: '2026-05-25',
+    category: 'blog',
+    title: '我写了一本书！| I wrote a book! ',
+    excerpt: 'This actually happened half years ago, but I just got this new website.'
   }
   
 ];
