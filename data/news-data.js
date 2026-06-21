@@ -25,6 +25,13 @@ const NEWS_POSTS = [
     category: 'blog',
     title: '我写了一本书！| I wrote a book! ',
     excerpt: 'This actually happened half years ago, but I just got this new website.'
+  },
+  {
+    id: 'kashgar2026',
+    date: '2026-06-15',
+    category: 'blog',
+    title: 'Kashgar science outreach',
+    excerpt: 'I visited China’s westernmost city, and it was amazing.'
   }
   
 ];
