@@ -21,7 +21,7 @@ const PUBLICATIONS = [
   },
   {
     year: 2025,
-    authors: 'Wang, Z.*, X..., Yang, T., Dai W-Z#',
+    authors: 'Wang, Z.*, ..., Yang, T., Dai W-Z#',
     title: 'From End-to-end to Step-by-step: Learning to Abstract via Abductive Reinforcement Learning',
     journal: 'IJCAI',
     journalType: 'conference',
