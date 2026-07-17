@@ -30,7 +30,7 @@ const PUBLICATIONS = [
   },
   {
     year: 2023,
-    authors: 'Liu, X.*, Su, R.*, Chen, Y., Yang, T.#',
+    authors: 'Li, X.*, Su, R.*, Chen, Y., Yang, T.#',
     title: 'Optimal uncertainty estimation concurrent with decision making',
     journal: 'Cell Reports',
     journalType: '',
@@ -83,7 +83,7 @@ const PUBLICATIONS = [
   },
   {
     year: 2020,
-    authors: 'Lin, Z.*, Nie C.*, Zhang, Y.*, Yang, T.#',
+    authors: 'Zhang, Z.*, Cheng, H., Yang, T.#',
     title: 'A recurrent neural network framework for flexible and adaptive decision making based on sequence learning',
     journal: 'PLoS Computational Biology',
     journalType: '',
