@@ -1,4 +1,4 @@
-<img src="posts/images/hualei-yuxi.jpg" alt="Kashgar 2026" style="border: 12px solid #f0e6d6; padding: 10px; box-shadow: 3px 3px 10px #888; max-width: 600px;">
+<img src="posts/images/hualei-yuxi.jpg" alt="Defense 2026" style="border: 12px solid #f0e6d6; padding: 10px; box-shadow: 3px 3px 10px #888; max-width: 600px;">
 
 # Double Triumph! Two Lab PhD Candidates Successfully Defend Their Dissertations 
 
