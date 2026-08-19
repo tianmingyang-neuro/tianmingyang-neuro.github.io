@@ -32,8 +32,14 @@ const NEWS_POSTS = [
     category: 'blog',
     title: 'Kashgar science outreach',
     excerpt: 'I visited China’s westernmost city, and it was amazing.'
+  },
+  {
+    id: 'defense2026',
+    date: '2026-08-18',
+    category: 'lab-news',
+    title: 'Fresh new PhDs',
+    excerpt: 'Hualei and Yuxi defend their theses.'
   }
-  
 ];
 
 const NEWS_CATEGORIES = {
